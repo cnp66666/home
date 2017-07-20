@@ -1,0 +1,84 @@
+body{
+	background: #EEEEEE;
+}
+.header{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	height: 2.25rem;
+	line-height: 2.25rem;
+	background: white;
+	text-align: center;
+	border-bottom: 1px solid #CCCCCC;
+}
+.header img{
+	height: 100%;
+	width: auto;
+}
+.header div:nth-child(2){
+	font-size: 0.8rem;
+}
+.nr{
+	width: 100%;
+	height: 2.5rem;
+}
+.nr1{
+	background: white;
+	display: flex;
+	font-size: 0.8rem;
+	margin-top: 0.6rem;
+}
+.nr1 p{
+	padding: 1rem 0.4rem;
+	border-right: 1px solid #CCCCCC;
+}
+.nr1 input{
+	padding-left: 0.5rem;
+}
+.nr1 a{
+	padding: 1rem 0.4rem;
+	float: right;
+}
+.color1{
+	color: #ff3451;
+	font-size: 0.8rem;
+}
+.anniu{
+	display: flex;
+	justify-content: center;
+}
+.dlk{
+	width: 19.9rem;
+	height: 2.25rem;
+	margin-top: 1.5rem;
+	background: #FF3451;
+	color: white;
+	font-size: 0.8rem;
+	border-radius: 3px;
+	text-align: center;
+	line-height: 2.25rem;
+}
+.wjmm{
+	padding: 0 0.4rem;
+	margin-top: 0.9rem;
+	font-size: 0.8rem;
+	display: flex;
+	justify-content: space-between;
+	color: #999999;
+}
+.qt{
+	padding: 1.7rem 0.4rem;
+}
+.qtt{
+	width: 8rem;
+	text-align: center;
+	background: #EEEEEE;
+	font-size: 0.8rem;
+	margin: 0 auto;
+	margin-top: -1rem;
+}
+.qq{
+	width: 100%;
+	text-align: center;
+}
+/*# sourceMappingURL=denglu.css.map */
